@@ -1,0 +1,32 @@
+---
+title: Online Passive-Aggressive Algorithms on a Budget
+abstract: In this paper a kernel-based online learning algorithm, which has both constant
+  space and update time, is proposed. The approach is based on the popular online
+  Passive-Aggressive (PA) algorithm. When used in conjunction with kernel function,
+  the number of support vectors in PA grows without bounds when learning from noisy
+  data streams. This implies unlimited memory and ever increasing model update and
+  prediction time. To address this issue, the proposed budgeted PA algorithm maintains
+  only a fixed number of support vectors. By introducing an additional constraint
+  to the original PA optimization problem, a closed-form solution was derived for
+  the support vector removal and model update. Using the hinge loss we developed several
+  budgeted PA algorithms that can trade between accuracy and update cost. We also
+  developed the ramp loss versions of both original and budgeted PA and showed that
+  the resulting algorithms can be interpreted as the combination of active learning
+  and hinge loss PA. All proposed algorithms were comprehensively tested on 7 benchmark
+  data sets. The experiments showed that they are superior to the existing budgeted
+  online algorithms. Even with modest budgets, the budgeted PA achieved very competitive
+  accuracies to the non-budgeted PA and kernel perceptron algorithms.
+pdf: "./wang10b/wang10b.pdf"
+layout: inproceedings
+key: wang10b
+month: 0
+firstpage: 908
+lastpage: 915
+origpdf: http://jmlr.org/proceedings/papers/v9/wang10b/wang10b.pdf
+sections: 
+authors:
+- given: Zhuang
+  family: Wang
+- given: Slobodan
+  family: Vucetic
+---

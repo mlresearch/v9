@@ -1,0 +1,28 @@
+---
+title: 'Nonlinear functional regression: a functional RKHS approach'
+abstract: This paper deals with functional regression, in which the input attributes
+  as well as the response are functions. To deal with this problem, we develop a functional
+  reproducing kernel Hilbert space approach; here, a kernel is an operator acting
+  on a function and yielding a function. We demonstrate basic properties of these
+  functional RKHS, as well as a representer theorem for this setting; we investigate
+  the construction of kernels; we provide some experimental insight.
+pdf: "./kadri10a/kadri10a.pdf"
+layout: inproceedings
+key: kadri10a
+month: 0
+firstpage: 374
+lastpage: 380
+origpdf: http://jmlr.org/proceedings/papers/v9/kadri10a/kadri10a.pdf
+sections: 
+authors:
+- given: Hachem
+  family: Kadri
+- given: Emmanuel
+  family: Duflos
+- given: Philippe
+  family: Preux
+- given: Stéphane
+  family: Canu
+- given: Manuel
+  family: Davy
+---

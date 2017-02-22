@@ -1,0 +1,27 @@
+---
+title: Semi-Supervised Learning with Max-Margin Graph Cuts
+abstract: This paper proposes a novel algorithm for semi-supervised learning. This
+  algorithm learns graph cuts that maximize the margin with respect to the labels
+  induced by the harmonic function solution. We motivate the approach, compare it
+  to existing work, and prove a bound on its generalization error. The quality of
+  our solutions is evaluated on a synthetic problem and three UCI ML repository datasets.
+  In most cases, we outperform manifold regularization of support vector machines,
+  which is a state-of-the-art approach to semi-supervised max-margin learning.
+pdf: "./kveton10a/kveton10a.pdf"
+layout: inproceedings
+key: kveton10a
+month: 0
+firstpage: 421
+lastpage: 428
+origpdf: http://jmlr.org/proceedings/papers/v9/kveton10a/kveton10a.pdf
+sections: 
+authors:
+- given: Branislav
+  family: Kveton
+- given: Michal
+  family: Valko
+- given: Ali
+  family: Rahimi
+- given: Ling
+  family: Huang
+---

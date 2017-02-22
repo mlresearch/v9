@@ -1,0 +1,34 @@
+---
+title: Exploiting Feature Covariance in High-Dimensional Online Learning
+abstract: Some online algorithms for linear classification model the uncertainty in
+  their weights over the course of learning.  Modeling the full covariance structure
+  of the weights can provide a significant advantage for classification.  However,
+  for high-dimensional, large-scale data, even though there may be many second-order
+  feature interactions, it is computationally infeasible to maintain this covariance
+  structure. To extend second-order methods to high-dimensional data, we develop low-rank
+  approximations of the covariance structure. We evaluate our approach on both synthetic
+  and real-world data sets using the confidence-weighted online learning framework.
+  We show improvements over diagonal covariance matrices for both low and high-dimensional
+  data.
+pdf: "./ma10a/ma10a.pdf"
+layout: inproceedings
+key: ma10a
+month: 0
+firstpage: 493
+lastpage: 500
+origpdf: http://jmlr.org/proceedings/papers/v9/ma10a/ma10a.pdf
+sections: 
+authors:
+- given: Justin
+  family: Ma
+- given: Alex
+  family: Kulesza
+- given: Mark
+  family: Dredze
+- given: Koby
+  family: Crammer
+- given: Lawrence
+  family: Saul
+- given: Fernando
+  family: Pereira
+---

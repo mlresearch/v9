@@ -1,0 +1,28 @@
+---
+title: Inference of Sparse Networks with Unobserved Variables. Application to Gene
+  Regulatory Networks
+abstract: Networks are becoming a unifying framework for modeling complex systems
+  and network inference problems are frequently encountered in many fields. Here,
+  I develop and apply a generative approach to network inference (RCweb) for the case
+  when the network is sparse and the latent (not observed) variables affect the observed
+  ones. From all possible factor analysis (FA) decompositions explaining the variance
+  in the data, RCweb selects the FA decomposition that is consistent with a sparse
+  underlying network. The sparsity constraint is imposed by a novel method that significantly
+  outperforms (in terms of accuracy, robustness to noise, complexity scaling and computational
+  efficiency) methods using l1 norm relaxation such as K-SVD and l1-based sparse principle
+  component analysis (PCA). Results from simulated models demonstrate that RCweb recovers
+  exactly the model structures for sparsity as low (as non-sparse) as 50\% and with
+  ratio of unobserved to observed variables as high as 2. RCweb is robust to noise,
+  with gradual decrease in the parameter ranges as the noise level increases.
+pdf: "./slavov10a/slavov10a.pdf"
+layout: inproceedings
+key: slavov10a
+month: 0
+firstpage: 757
+lastpage: 764
+origpdf: http://jmlr.org/proceedings/papers/v9/slavov10a/slavov10a.pdf
+sections: 
+authors:
+- given: Nikolai
+  family: Slavov
+---

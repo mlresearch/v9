@@ -1,0 +1,29 @@
+---
+title: Bayesian Generalized Kernel Models
+abstract: We propose a fully Bayesian approach for generalized kernel models (GKMs),
+  which are extensions of generalized linear models in the feature space induced by
+  a reproducing kernel. We place a mixture of a point-mass distribution and Silverman's
+  g-prior on the regression vector of GKMs. This mixture prior allows a fraction of
+  the regression vector to be zero.  Thus, it serves for sparse modeling and Bayesian
+  computation.  For inference, we exploit data augmentation methodology to develop
+  a Markov chain Monte Carlo (MCMC) algorithm in which the reversible jump method
+  is used for model selection and a Bayesian model averaging method is used for posterior
+  prediction.
+pdf: "./zhang10d/zhang10d.pdf"
+layout: inproceedings
+key: zhang10d
+month: 0
+firstpage: 972
+lastpage: 979
+origpdf: http://jmlr.org/proceedings/papers/v9/zhang10d/zhang10d.pdf
+sections: 
+authors:
+- given: Zhihua
+  family: Zhang
+- given: Guang
+  family: Dai
+- given: Donghui
+  family: Wang
+- given: Michael
+  family: Jordan
+---

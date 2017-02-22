@@ -1,0 +1,31 @@
+---
+title: Feature Selection using Multiple Streams
+abstract: Feature selection for supervised learning can be greatly improved by making
+  use of the fact that features often come in classes. For example, in gene  expression
+  data, the genes which serve as features may be  divided into classes based on their
+  membership in gene families or pathways. When labeling words with senses for word
+  sense disambiguation, features fall into classes including adjacent words, their
+  parts of speech, and the topic and venue of the document the word is in. We present
+  a streamwise feature selection method that allows  dynamic generation and selection
+  of features, while taking advantage of the different feature classes, and the fact
+  that they are of different sizes and have different (but unknown) fractions of good
+  features. Experimental results show that our approach provides significant improvement
+  in performance and is computationally less expensive than comparable ``batch'' methods
+  that do not take advantage of the feature classes and expect all features to be
+  known in advance.
+pdf: "./dhillon10a/dhillon10a.pdf"
+layout: inproceedings
+key: dhillon10a
+month: 0
+firstpage: 153
+lastpage: 160
+origpdf: http://jmlr.org/proceedings/papers/v9/dhillon10a/dhillon10a.pdf
+sections: 
+authors:
+- given: Paramveer
+  family: Dhillon
+- given: Dean
+  family: Foster
+- given: Lyle
+  family: Ungar
+---

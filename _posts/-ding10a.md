@@ -1,0 +1,39 @@
+---
+title: Nonparametric Bayesian Matrix Factorization by Power-EP
+abstract: Many real-world applications can be modeled by matrix factorization. By
+  approximating an observed data matrix  as the product of two latent matrices,  matrix
+  factorization can reveal hidden structures embedded in data. A common challenge
+  to use matrix factorization is determining the dimensionality of the latent matrices
+  from data. Indian Buffet Processes (IBPs) enable us to apply the nonparametric Bayesian
+  machinery to address this challenge. However, it remains a difficult task to learn
+  nonparametric Bayesian matrix factorization models. In this paper, we propose a
+  novel variational Bayesian method based on new equivalence classes of infinite matrices
+  for learning these models. Furthermore, inspired by the success of nonnegative matrix
+  factorization on many learning problems, we impose nonnegativity constraints on
+  the latent matrices and mix variational inference with expectation propagation.
+  This mixed inference method is unified in a power expectation propagation framework.
+  Experimental results on image decomposition demonstrate the superior computational
+  efficiency and the higher prediction accuracy of our methods compared to alternative
+  Monte Carlo and variational inference methods for IBP models. We also apply the
+  new methods to collaborative filtering and role mining and show the improved predictive
+  performance over other matrix factorization methods.
+pdf: "./ding10a/ding10a.pdf"
+layout: inproceedings
+key: ding10a
+month: 0
+firstpage: 169
+lastpage: 176
+origpdf: http://jmlr.org/proceedings/papers/v9/ding10a/ding10a.pdf
+sections: 
+authors:
+- given: Nan
+  family: Ding
+- given: Yuan
+  family: Qi
+- given: Rongjing
+  family: Xiang
+- given: Ian
+  family: Molloy
+- given: Ninghui
+  family: Li
+---

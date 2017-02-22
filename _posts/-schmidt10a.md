@@ -1,0 +1,26 @@
+---
+title: 'Convex Structure Learning in Log-Linear Models: Beyond Pairwise Potentials'
+abstract: Previous work has examined structure learning in log-linear models with
+  L1-regularization, largely focusing on the case of pairwise potentials.  In this
+  work we consider the case of models with potentials of arbitrary order, but that
+  satisfy a hierarchical constraint.  We enforce the hierarchical constraint using
+  group L1-regularization with overlapping groups, and an active set method that enforces
+  hierarchical inclusion allows us to tractably consider the exponential number of
+  higher-order potentials.  We use a spectral projected gradient method as a sub-routine
+  for solving the overlapping group L1-regularization problem, and make use of a sparse
+  version of Dykstra's algorithm to compute the projection.  Our experiments indicate
+  that this model gives equal or better test set likelihood compared to previous models.
+pdf: "./schmidt10a/schmidt10a.pdf"
+layout: inproceedings
+key: schmidt10a
+month: 0
+firstpage: 709
+lastpage: 716
+origpdf: http://jmlr.org/proceedings/papers/v9/schmidt10a/schmidt10a.pdf
+sections: 
+authors:
+- given: Mark
+  family: Schmidt
+- given: Kevin
+  family: Murphy
+---

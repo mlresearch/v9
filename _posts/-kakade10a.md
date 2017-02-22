@@ -1,0 +1,28 @@
+---
+title: 'Learning Exponential Families in High-Dimensions: Strong Convexity and Sparsity'
+abstract: The versatility of exponential families, along with their attendant convexity
+  properties, make them a popular and effective statistical model. A central issue
+  is learning these models in high-dimensions when the optimal parameter  vector is
+  sparse. This work characterizes a certain strong convexity property of general exponential
+  families, which allows their generalization ability to be quantified. In particular,
+  we show how this property can be used to analyze generic exponential families under
+  L1 regularization.
+pdf: "./kakade10a/kakade10a.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v9/kakade10a/kakade10aSupple.pdf
+layout: inproceedings
+key: kakade10a
+month: 0
+firstpage: 381
+lastpage: 388
+origpdf: http://jmlr.org/proceedings/papers/v9/kakade10a/kakade10a.pdf
+sections: 
+authors:
+- given: Sham
+  family: Kakade
+- given: Ohad
+  family: Shamir
+- given: Karthik
+  family: Sindharan
+- given: Ambuj
+  family: Tewari
+---

@@ -1,0 +1,27 @@
+---
+title: Bayesian Gaussian Process Latent Variable Model
+abstract: We introduce a variational inference framework for training the Gaussian
+  process latent variable model and thus performing Bayesian nonlinear dimensionality
+  reduction. This method allows us to variationally integrate out the input variables
+  of the Gaussian process and compute a lower bound on the exact marginal likelihood
+  of the nonlinear latent variable model. The maximization of the variational lower
+  bound provides a Bayesian training procedure that is robust to overfitting and can
+  automatically select the dimensionality of the nonlinear latent space. We demonstrate
+  our method on real world datasets. The focus in this paper is on dimensionality
+  reduction problems, but the methodology is more general. For example, our algorithm
+  is immediately applicable for training Gaussian process models in the presence of
+  missing or uncertain inputs.
+pdf: "./titsias10a/titsias10a.pdf"
+layout: inproceedings
+key: titsias10a
+month: 0
+firstpage: 844
+lastpage: 851
+origpdf: http://jmlr.org/proceedings/papers/v9/titsias10a/titsias10a.pdf
+sections: 
+authors:
+- given: Michalis
+  family: Titsias
+- given: Neil
+  family: Lawrence
+---

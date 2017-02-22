@@ -1,0 +1,28 @@
+---
+title: Graphical Gaussian modelling of multivariate time series with latent variables
+abstract: In time series analysis, inference about cause-effect relationships among
+  multiple times series is commonly based on the concept of Granger causality, which
+  exploits temporal structure to achieve causal ordering of dependent variables. One
+  major problem in the application of Granger causality for the identification of
+  causal relationships is the possible presence of latent variables that affect the
+  measured components and thus lead to so-called spurious causalities. In this paper,
+  we describe a new graphical approach for modelling the dependence structure of multivariate
+  stationary time series that are affected by latent variables. To this end, we introduce
+  dynamic maximal ancestral graphs (dMAGs), in which each time series is represented
+  by a single vertex. For Gaussian processes, this approach leads to vector autoregressive
+  models with errors that are not independent but correlated according to the dashed
+  edges in the graph. We discuss identifiability of the parameters and show that these
+  models can be viewed as graphical ARMA models that satisfy the Granger causality
+  restrictions encoded by the associated dynamic maximal ancestral graph.
+pdf: "./eichler10a/eichler10a.pdf"
+layout: inproceedings
+key: eichler10a
+month: 0
+firstpage: 193
+lastpage: 200
+origpdf: http://jmlr.org/proceedings/papers/v9/eichler10a/eichler10a.pdf
+sections: 
+authors:
+- given: Michael
+  family: Eichler
+---

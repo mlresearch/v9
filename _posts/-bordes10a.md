@@ -1,0 +1,27 @@
+---
+title: Towards Understanding Situated Natural Language
+abstract: 'We present a general framework and learning algorithm for the task of concept
+  labeling: each word in a given sentence has to be tagged with the unique physical
+  entity (e.g. person, object or location) or abstract concept it refers to. Our method
+  allows both world knowledge and linguistic information to be used during learning
+  and prediction. We show experimentally that we can learn to use world knowledge
+  to resolve ambiguities in language, such as word senses or reference resolution,
+  without the use of handcrafted rules or features.'
+pdf: "./bordes10a/bordes10a.pdf"
+layout: inproceedings
+key: bordes10a
+month: 0
+firstpage: 65
+lastpage: 72
+origpdf: http://jmlr.org/proceedings/papers/v9/bordes10a/bordes10a.pdf
+sections: 
+authors:
+- given: Antoine
+  family: Bordes
+- given: Nicolas
+  family: Usunier
+- given: Ronan
+  family: Collobert
+- given: Jason
+  family: Weston
+---

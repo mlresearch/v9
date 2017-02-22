@@ -1,0 +1,33 @@
+---
+title: Unsupervised Aggregation for Classification Problems with Large Numbers of
+  Categories
+abstract: Classification problems with a very large or unbounded set of output categories
+  are common in many areas such as natural language and image processing. In order
+  to improve accuracy on these tasks, it is natural for a  decision-maker to  combine
+  predictions from various  sources.  However, supervised data needed to fit an aggregation
+  model  is often difficult to obtain, especially if needed for multiple domains.
+  Therefore, we propose a generative model for unsupervised aggregation which exploits
+  the agreement signal to estimate the expertise of individual judges.  Due to the
+  large output space size, this aggregation model cannot encode expertise of constituent
+  judges with respect to every category for all problems. Consequently, we extend
+  it by incorporating the notion of category types  to account for variability  of
+  the judge expertise depending on the type.  The viability of our approach is demonstrated
+  both on synthetic experiments and on a practical task of syntactic parser aggregation.
+pdf: "./titov10a/titov10a.pdf"
+layout: inproceedings
+key: titov10a
+month: 0
+firstpage: 836
+lastpage: 843
+origpdf: http://jmlr.org/proceedings/papers/v9/titov10a/titov10a.pdf
+sections: 
+authors:
+- given: Ivan
+  family: Titov
+- given: Alexandre
+  family: Klementiev
+- given: Kevin
+  family: Small
+- given: Dan
+  family: Roth
+---

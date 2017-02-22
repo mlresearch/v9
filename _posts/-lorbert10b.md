@@ -1,0 +1,30 @@
+---
+title: Exploiting Covariate Similarity in Sparse Regression via the Pairwise Elastic
+  Net
+abstract: A new approach to regression regularization called the Pairwise Elastic
+  Net is proposed. Like the Elastic Net, it simultaneously performs automatic variable
+  selection and continuous shrinkage. In addition, the Pairwise Elastic Net encourages
+  the grouping of strongly correlated predictors based on a pairwise similarity measure.
+  We give examples of how the Pairwise Elastic Net can be used to achieve the objectives
+  of Ridge regression, the Lasso, the Elastic Net, and Group Lasso. Finally, we present
+  a coordinate descent algorithm to solve the Pairwise Elastic Net.
+pdf: "./lorbert10b/lorbert10b.pdf"
+layout: inproceedings
+key: lorbert10b
+month: 0
+firstpage: 477
+lastpage: 484
+origpdf: http://jmlr.org/proceedings/papers/v9/lorbert10b/lorbert10b.pdf
+sections: 
+authors:
+- given: Alexander
+  family: Lorbert
+- given: David
+  family: Eis
+- given: Victoria
+  family: Kostina
+- given: David
+  family: Blei
+- given: Peter
+  family: Ramadge
+---

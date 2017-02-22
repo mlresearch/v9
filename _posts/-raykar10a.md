@@ -1,0 +1,24 @@
+---
+title: Nonparametric prior for adaptive sparsity
+abstract: For high-dimensional problems various parametric priors have been proposed
+  to promote sparse solutions. While parametric  priors has shown considerable success
+  they are not very robust in adapting to varying degrees of sparsity. In this work
+  we propose a discrete mixture prior which is partially nonparametric. The right
+  structure for the prior and the amount of sparsity is estimated directly from the
+  data. Our experiments show that the proposed prior adapts to sparsity much better
+  than its parametric counterparts. We  apply the proposed method to classification
+  of high dimensional microarray datasets.
+pdf: "./raykar10a/raykar10a.pdf"
+layout: inproceedings
+key: raykar10a
+month: 0
+firstpage: 629
+lastpage: 636
+origpdf: http://jmlr.org/proceedings/papers/v9/raykar10a/raykar10a.pdf
+sections: 
+authors:
+- given: Vikas
+  family: Raykar
+- given: Linda
+  family: Zhao
+---

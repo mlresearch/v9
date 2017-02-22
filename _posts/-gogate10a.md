@@ -1,0 +1,23 @@
+---
+title: On Combining Graph-based Variance Reduction schemes
+abstract: 'In this paper, we consider two variance reduction schemes that exploit
+  the structure of the primal graph of the graphical model: Rao-Blackwellised w-cutset
+  sampling and AND/OR sampling. We show that the two schemes are orthogonal and can
+  be combined to further reduce the variance. Our combination yields a new family
+  of estimators which trade time and space with variance. We demonstrate experimentally
+  that the new estimators are superior, often yielding an order of magnitude improvement
+  over previous schemes on several benchmarks.'
+pdf: "./gogate10a/gogate10a.pdf"
+layout: inproceedings
+key: gogate10a
+month: 0
+firstpage: 257
+lastpage: 264
+origpdf: http://jmlr.org/proceedings/papers/v9/gogate10a/gogate10a.pdf
+sections: 
+authors:
+- given: Vibhav
+  family: Gogate
+- given: Rina
+  family: Dechter
+---

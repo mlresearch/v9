@@ -1,0 +1,29 @@
+---
+title: Identifying Cause and Effect on Discrete Data using Additive Noise Models
+abstract: Inferring the causal structure of a set of random variables from a finite
+  sample of the joint distribution is an important problem in science. Recently, methods
+  using additive noise models have been suggested to approach the case of continuous
+  variables. In many situations, however, the variables of interest are discrete or
+  even have only finitely many states. In this work we extend the notion of additive
+  noise models to these cases. Whenever the joint distribution P^(X,Y) admits such
+  a model in one direction, e.g. Y=f(X)+N, N independent of X, it does not admit the
+  reversed model  X=g(Y)+N', N' independent of Y as long as the model is chosen in
+  a generic way. Based on these deliberations we propose an efficient new algorithm
+  that is able to distinguish between cause and effect for a finite sample of discrete
+  variables. We show that this algorithm works both on synthetic and real data sets.
+pdf: "./peters10a/peters10a.pdf"
+layout: inproceedings
+key: peters10a
+month: 0
+firstpage: 597
+lastpage: 604
+origpdf: http://jmlr.org/proceedings/papers/v9/peters10a/peters10a.pdf
+sections: 
+authors:
+- given: Jonas
+  family: Peters
+- given: Dominik
+  family: Janzing
+- given: Bernhard
+  family: Schölkopf
+---

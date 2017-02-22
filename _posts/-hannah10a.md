@@ -1,0 +1,25 @@
+---
+title: Dirichlet Process Mixtures of Generalized Linear Models
+abstract: We propose Dirichlet Process mixtures of Generalized Linear Models (DP-GLMs),
+  a new method of nonparametric regression that accommodates continuous and categorical
+  inputs, models a response variable locally by a generalized linear model.  We give
+  conditions for the existence and asymptotic unbiasedness of the DP-GLM regression
+  mean function estimate;  we then give a practical example for when those conditions
+  hold. We evaluate DP-GLM on several data sets, comparing it to modern methods of
+  nonparametric regression including regression trees and Gaussian processes.
+pdf: "./hannah10a/hannah10a.pdf"
+layout: inproceedings
+key: hannah10a
+month: 0
+firstpage: 313
+lastpage: 320
+origpdf: http://jmlr.org/proceedings/papers/v9/hannah10a/hannah10a.pdf
+sections: 
+authors:
+- given: Lauren
+  family: Hannah
+- given: David
+  family: Blei
+- given: Warren
+  family: Powell
+---

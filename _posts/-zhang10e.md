@@ -1,0 +1,30 @@
+---
+title: Matrix-Variate Dirichlet Process Mixture Models
+abstract: We are concerned with a multivariate response regression problem where the
+  interest is in considering correlations both across response variates and across
+  response samples. In this paper we develop a new Bayesian nonparametric model for
+  such a setting based on Dirichlet process priors. Building on an additive kernel
+  model, we allow each sample to have its own regression matrix. Although this overcomplete
+  representation could in principle suffer from severe overfitting problems, we are
+  able to provide effective control over the model via a matrix-variate Dirichlet
+  process prior on the regression matrices. Our model is able to share statistical
+  strength among regression matrices due to the clustering property of the Dirichlet
+  process. We make use of a Markov chain Monte Carlo algorithm for inference and prediction.
+  Compared with other Bayesian kernel models, our model has advantages in both computational
+  and statistical efficiency.
+pdf: "./zhang10e/zhang10e.pdf"
+layout: inproceedings
+key: zhang10e
+month: 0
+firstpage: 980
+lastpage: 987
+origpdf: http://jmlr.org/proceedings/papers/v9/zhang10e/zhang10e.pdf
+sections: 
+authors:
+- given: Zhihua
+  family: Zhang
+- given: Guang
+  family: Dai
+- given: Michael
+  family: Jordan
+---

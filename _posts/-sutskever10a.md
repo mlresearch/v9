@@ -1,0 +1,25 @@
+---
+title: On the Convergence Properties of Contrastive Divergence
+abstract: Contrastive Divergence (CD) is a popular method for estimating the parameters
+  of Markov Random Fields (MRFs) by rapidly approximating an intractable term in the
+  gradient of the log probability. Despite CD's empirical success, little is known
+  about its theoretical convergence properties.  In this paper, we analyze the CD-1
+  update rule for Restricted Boltzmann Machines (RBMs) with binary variables. We show
+  that this update is not the gradient of any function, and construct a counterintuitive
+  ``regularization function'' that causes CD learning to cycle indefinitely.  Nonetheless,
+  we show that the regularized CD update has a fixed point for a large class of regularization
+  functions using Brower's fixed point theorem.
+pdf: "./sutskever10a/sutskever10a.pdf"
+layout: inproceedings
+key: sutskever10a
+month: 0
+firstpage: 789
+lastpage: 795
+origpdf: http://jmlr.org/proceedings/papers/v9/sutskever10a/sutskever10a.pdf
+sections: 
+authors:
+- given: Ilya
+  family: Sutskever
+- given: Tijmen
+  family: Tieleman
+---

@@ -1,0 +1,23 @@
+---
+title: Convexity of Proper Composite Binary Losses
+abstract: A composite loss assigns a penalty to a real-valued prediction by associating
+  the prediction with a probability via a link function then applying a class probability
+  estimation (CPE) loss. If the risk for a composite loss is always minimised by predicting
+  the value associated with the true class probability the composite loss is proper.
+  We provide a novel, explicit and complete characterisation of the convexity of any
+  proper composite loss in terms of its link and its ``weight function'' associated
+  with its proper CPE loss.
+pdf: "./reid10a/reid10a.pdf"
+layout: inproceedings
+key: reid10a
+month: 0
+firstpage: 637
+lastpage: 644
+origpdf: http://jmlr.org/proceedings/papers/v9/reid10a/reid10a.pdf
+sections: 
+authors:
+- given: Mark
+  family: Reid
+- given: Robert
+  family: Williamson
+---

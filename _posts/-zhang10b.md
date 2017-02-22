@@ -1,0 +1,29 @@
+---
+title: Bayesian Online Learning for Multi-label and Multi-variate Performance Measures
+abstract: Many real world applications employ multi-variate performance measures and
+  each example can belong to multiple classes. The currently most popular approaches
+  train an SVM for each class, followed by ad hoc thresholding.  Probabilistic models
+  using Bayesian decision theory are also commonly adopted.  In this paper, we propose
+  a Bayesian online multi-label classification framework (BOMC) which learns a probabilistic
+  linear classifier.  The likelihood is modeled by a graphical model similar to TrueSkill^{TM},
+  and inference is based on Gaussian density filtering with expectation propagation.  Using
+  samples from the posterior, we label the testing data by maximizing the expected
+  $F_1$-score.  Our experiments on Reuters1-v2 dataset show BOMC compares favorably
+  to the state-of-the-art online learners in macro-averaged $F_1$-score and training
+  time.
+pdf: "./zhang10b/zhang10b.pdf"
+layout: inproceedings
+key: zhang10b
+month: 0
+firstpage: 956
+lastpage: 963
+origpdf: http://jmlr.org/proceedings/papers/v9/zhang10b/zhang10b.pdf
+sections: 
+authors:
+- given: Xinhua
+  family: Zhang
+- given: Thore
+  family: Graepel
+- given: Ralf
+  family: Herbrich
+---

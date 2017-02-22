@@ -1,0 +1,24 @@
+---
+title: Mass Fatality Incident Identification based on nuclear DNA evidence
+abstract: This paper focuses on the use of nuclear DNA Short Tandem Repeat traits
+  for the identification of the victims of a Mass Fatality Incident. The goal of the
+  analysis is  the assessment of the identification probabilities concerning the  recovered
+  victims.  Identification hypotheses are evaluated conditionally to the DNA evidence
+  observed both on the recovered victims and on the relatives of the missing persons
+  disappeared in the tragical event. After specifying  a set of conditional independence
+  assertions suitable for the problem, an inference strategy is provided, treating
+  some points to achieve computational efficiency.  Finally, the proposal is tested
+  through the simulation of a Mass Fatality Incident and the results are  examined
+  in details.
+pdf: "./corradi10a/corradi10a.pdf"
+layout: inproceedings
+key: corradi10a
+month: 0
+firstpage: 105
+lastpage: 112
+origpdf: http://jmlr.org/proceedings/papers/v9/corradi10a/corradi10a.pdf
+sections: 
+authors:
+- given: Fabio
+  family: Corradi
+---

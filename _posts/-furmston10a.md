@@ -1,0 +1,26 @@
+---
+title: Variational methods for Reinforcement Learning
+abstract: "We consider reinforcement learning as solving a Markov decision process
+  with unknown transition distribution. Based on interaction with the environment,
+  an estimate of the transition matrix is obtained from which the optimal decision
+  policy is formed. The classical maximum likelihood point estimate of the transition
+  model does not re\x1Aect the uncertainty in the estimate of the transition model
+  and the resulting policies may consequently lack a sufficient degree of exploration.
+  We consider a Bayesian alternative that maintains a distribution over the transition
+  so that the resulting policy takes into account the limited experience of the environment.
+  The resulting algorithm is formally intractable and we discuss two approximate solution
+  methods, Variational Bayes and Expectation Propagation."
+pdf: "./furmston10a/furmston10a.pdf"
+layout: inproceedings
+key: furmston10a
+month: 0
+firstpage: 241
+lastpage: 248
+origpdf: http://jmlr.org/proceedings/papers/v9/furmston10a/furmston10a.pdf
+sections: 
+authors:
+- given: Thomas
+  family: Furmston
+- given: David
+  family: Barber
+---

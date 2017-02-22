@@ -1,0 +1,29 @@
+---
+title: Nonparametric Tree Graphical Models
+abstract: We introduce a nonparametric representation for graphical model on trees
+  which expresses  marginals as Hilbert space embeddings and conditionals as embedding
+  operators.  This formulation allows us to define a graphical model solely  on the
+  basis of the feature space representation of its variables. Thus, this nonparametric
+  model can be applied to general domains where kernels are defined, handling challenging
+  cases such as discrete variables whose domains are huge, or very complex, non-Gaussian
+  continuous distributions.  We also derive \emph{kernel belief propagation}, a Hilbert-space
+  algorithm for performing inference in our model.  We show that our method outperforms
+  state-of-the-art techniques  in a cross-lingual document retrieval task and  a camera
+  rotation estimation problem.
+pdf: "./song10a/song10a.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v9/song10a/song10aSupple.pdf
+layout: inproceedings
+key: song10a
+month: 0
+firstpage: 765
+lastpage: 772
+origpdf: http://jmlr.org/proceedings/papers/v9/song10a/song10a.pdf
+sections: 
+authors:
+- given: Le
+  family: Song
+- given: Arthur
+  family: Gretton
+- given: Carlos
+  family: Guestrin
+---

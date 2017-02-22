@@ -1,0 +1,30 @@
+---
+title: Multiclass-Multilabel Classification with More Classes than Examples
+abstract: 'We discuss multiclass-multilabel classification problems in which   the
+  set of possible labels is extremely large. Most existing   multiclass-multilabel
+  learning algorithms expect to observe a   reasonably large sample from each class,
+  and fail if they receive   only a handful of examples with a given label. We propose
+  and   analyze the following two-stage approach: first use an arbitrary   (perhaps
+  heuristic) classification algorithm to construct an initial   classifier, then apply
+  a simple but principled method to augment   this classifier by removing harmful
+  labels from its output.  A   careful theoretical analysis allows us to justify our
+  approach under   some reasonable conditions (such as label sparsity and power-law   distribution
+  of label frequencies), even when the training set does   not provide a statistically
+  accurate representation of most   classes. Surprisingly, our theoretical analysis
+  continues to hold   even when the number of classes exceeds the sample size. We   demonstrate
+  the merits of our approach on the ambitious task of   categorizing the entire web
+  using the 1.5 million categories   defined on Wikipedia.'
+pdf: "./dekel10a/dekel10a.pdf"
+layout: inproceedings
+key: dekel10a
+month: 0
+firstpage: 137
+lastpage: 144
+origpdf: http://jmlr.org/proceedings/papers/v9/dekel10a/dekel10a.pdf
+sections: 
+authors:
+- given: Ofer
+  family: Dekel
+- given: Ohad
+  family: Shamir
+---

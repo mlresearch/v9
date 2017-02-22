@@ -1,0 +1,26 @@
+---
+title: Guarantees for Approximate Incremental SVMs
+abstract: Assume a teacher provides examples one by one. An approximate incremental
+  SVM computes a sequence of classifiers that are close to the true SVM solutions
+  computed on the successive incremental training sets. We show that simple algorithms
+  can satisfy an averaged accuracy criterion with a computational cost that scales
+  as well as the best SVM algorithms with the number of examples. Finally, we exhibit
+  some experiments highlighting the benefits of joining fast incremental optimization
+  and curriculum and active learning (Schon and Cohn, 2000; Bordes et al., 2005; Bengio
+  et al., 2009).
+pdf: "./usunier10a/usunier10a.pdf"
+layout: inproceedings
+key: usunier10a
+month: 0
+firstpage: 884
+lastpage: 891
+origpdf: http://jmlr.org/proceedings/papers/v9/usunier10a/usunier10a.pdf
+sections: 
+authors:
+- given: Nicolas
+  family: Usunier
+- given: Antoine
+  family: Bordes
+- given: Léon
+  family: Bottou
+---

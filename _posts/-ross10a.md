@@ -1,0 +1,30 @@
+---
+title: Efficient Reductions for Imitation Learning
+abstract: 'Imitation Learning, while applied successfully on many large real-world
+  problems, is typically addressed as a standard supervised learning problem, where
+  it is assumed the training and testing data are i.i.d..  This is not true in imitation
+  learning as the learned policy influences the future test inputs (states) upon which
+  it will be tested. We show that this leads to compounding errors and a regret bound
+  that grows quadratically in the time horizon of the task. We propose two alternative
+  algorithms for imitation learning where training occurs over several episodes of
+  interaction. These two approaches share in common that the learner''s policy is
+  slowly modified from executing the expert''s policy to the learned policy. We show
+  that this leads to stronger performance guarantees and demonstrate the improved
+  performance on two challenging problems: training a learner to play 1) a 3D racing
+  game (Super Tux Kart) and 2) Mario Bros.; given input images from the games and
+  corresponding actions taken by a human expert and near-optimal planner respectively.'
+pdf: "./ross10a/ross10a.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v9/ross10a/ross10aSupple.pdf
+layout: inproceedings
+key: ross10a
+month: 0
+firstpage: 661
+lastpage: 668
+origpdf: http://jmlr.org/proceedings/papers/v9/ross10a/ross10a.pdf
+sections: 
+authors:
+- given: Stephane
+  family: Ross
+- given: Drew
+  family: Bagnell
+---

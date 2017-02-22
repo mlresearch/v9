@@ -1,0 +1,25 @@
+---
+title: Approximation of hidden Markov models by mixtures of experts with application
+  to particle filtering
+abstract: Selecting conveniently the proposal kernel and the adjustment multiplier
+  weights of the auxiliary particle filter may increase significantly the accuracy
+  and computational efficiency of the method. However, in practice the optimal proposal
+  kernel and multiplier weights are seldom known. In this paper we present a simulation-based
+  method for constructing offline an approximation of these quantities that makes
+  the filter close to fully adapted at a reasonable computational cost. The approximation
+  is constructed as a mixture of experts optimised through an efficient stochastic
+  approximation algorithm. The method is illustrated on two simulated examples.
+pdf: "./olsson10a/olsson10a.pdf"
+layout: inproceedings
+key: olsson10a
+month: 0
+firstpage: 573
+lastpage: 580
+origpdf: http://jmlr.org/proceedings/papers/v9/olsson10a/olsson10a.pdf
+sections: 
+authors:
+- given: Jimmy
+  family: Olsson
+- given: Jonas
+  family: Ströjby
+---

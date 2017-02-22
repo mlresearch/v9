@@ -1,0 +1,27 @@
+---
+title: Posterior distributions are computable from predictive distributions
+abstract: As we devise more complicated prior distributions, will inference algorithms
+  keep up?  We highlight a negative result in computable probability theory by Ackerman,
+  Freer, and Roy (2010) that shows that there exist computable priors with noncomputable
+  posteriors.  In addition to providing a brief survey of computable probability theory
+  geared towards the A.I. and statistics community, we give a new result characterizing
+  when conditioning is computable in the setting of exchangeable sequences, and provide
+  a computational perspective on work by Orbanz (2010) on conjugate nonparametric
+  models.  In particular, using a computable extension of de Finetti's theorem (Freer
+  and Roy 2009), we describe how to transform a posterior predictive rule for generating
+  an exchangeable sequence into an algorithm for computing the posterior distribution
+  of the directing random measure.
+pdf: "./freer10a/freer10a.pdf"
+layout: inproceedings
+key: freer10a
+month: 0
+firstpage: 233
+lastpage: 240
+origpdf: http://jmlr.org/proceedings/papers/v9/freer10a/freer-roy10a.pdf
+sections: 
+authors:
+- given: Cameron
+  family: Freer
+- given: Daniel
+  family: Roy
+---

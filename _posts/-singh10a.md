@@ -1,0 +1,34 @@
+---
+title: Detecting Weak but Hierarchically-Structured Patterns in Networks
+abstract: The ability to detect weak distributed activation patterns in networks is
+  critical to several applications, such as identifying the onset of anomalous activity
+  or incipient congestion in the Internet, or faint traces of a biochemical spread
+  by a sensor network.  This is a challenging problem since weak distributed patterns
+  can be invisible in per node statistics as well as a global network-wide aggregate.
+  Most prior work considers situations in which the activation/non-activation of each
+  node is statistically independent, but this is unrealistic in many problems.  In
+  this paper, we consider structured patterns arising from statistical dependencies
+  in the activation process.  Our contributions are three-fold. First, we propose
+  a sparsifying transform that succinctly represents structured activation patterns
+  that conform to a hierarchical dependency graph.  Second, we establish that the
+  proposed transform facilitates detection of very weak activation patterns that cannot
+  be detected with existing methods. Third, we show that the structure of the hierarchical
+  dependency graph governing the activation process, and hence the network transform,
+  can be learnt from very few (logarithmic in network size) independent snapshots
+  of network activity.
+pdf: "./singh10a/singh10a.pdf"
+layout: inproceedings
+key: singh10a
+month: 0
+firstpage: 749
+lastpage: 756
+origpdf: http://jmlr.org/proceedings/papers/v9/singh10a/singh10a.pdf
+sections: 
+authors:
+- given: Aarti
+  family: Singh
+- given: Robert
+  family: Nowak
+- given: Robert
+  family: Calderbank
+---

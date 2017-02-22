@@ -1,0 +1,24 @@
+---
+title: Inference and Learning in Networks of Queues
+abstract: Probabilistic models of the performance of computer systems are useful both
+  for predicting system performance in new conditions, and for diagnosing past performance
+  problems. The most popular performance models are networks of queues. However, no
+  current methods exist for parameter estimation or inference in networks of queues
+  with missing data. In this paper, we present a novel viewpoint that combines queueing
+  networks and graphical models, allowing Markov chain Monte Carlo to be applied.
+  We demonstrate the effectiveness of our sampler on real-world data from a benchmark
+  Web application.
+pdf: "./sutton10a/sutton10a.pdf"
+layout: inproceedings
+key: sutton10a
+month: 0
+firstpage: 796
+lastpage: 803
+origpdf: http://jmlr.org/proceedings/papers/v9/sutton10a/sutton10a.pdf
+sections: 
+authors:
+- given: Charles
+  family: Sutton
+- given: Michael
+  family: Jordan
+---

@@ -1,0 +1,26 @@
+---
+title: Dense Message Passing for Sparse Principal Component Analysis
+abstract: We describe a novel inference algorithm for sparse Bayesian PCA with a  zero-norm
+  prior on the model parameters. Bayesian inference is very  challenging in probabilistic
+  models of this type. MCMC procedures are  too slow to be practical in a very high-dimensional
+  setting and standard  mean-field variational Bayes algorithms are ineffective.  We
+  adopt a  dense message passing algorithm similar to algorithms developed in the  statistical  physics
+  community and previously applied to inference  problems in coding and sparse classification.
+  The algorithm achieves  near-optimal performance on synthetic data for which a statistical  mechanics
+  theory of optimal learning can be derived. We also study two  gene expression datasets
+  used in previous studies of sparse PCA. We find our  method  performs better than
+  one published algorithm and comparably to a second.
+pdf: "./sharp10a/sharp10a.pdf"
+layout: inproceedings
+key: sharp10a
+month: 0
+firstpage: 725
+lastpage: 732
+origpdf: http://jmlr.org/proceedings/papers/v9/sharp10a/sharp10a.pdf
+sections: 
+authors:
+- given: Kevin
+  family: Sharp
+- given: Magnus
+  family: Rattray
+---

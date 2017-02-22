@@ -1,0 +1,27 @@
+---
+title: A highly efficient blocked Gibbs sampler reconstruction of multidimensional
+  NMR spectra
+abstract: Projection Reconstruction Nuclear Magnetic Resonance (PR-NMR) is a new technique
+  to generate multi-dimensional NMR spectra, which have discrete features that are
+  relatively sparsely distributed in space. A small number of projections from lower
+  dimensional NMR spectra are used to reconstruct the multi-dimensional NMR spectra.
+  We propose an efficient algorithm which employs a blocked Gibbs sampler to accurately
+  reconstruct NMR spectra. This statistical method generates samples in Bayesian scheme.
+  Our proposed algorithm is tested on a set of six projections derived from the three-dimensional
+  700 MHz HNCO spectrum of HasA, a 187-residue heme binding protein.
+pdf: "./yoon10a/yoon10a.pdf"
+layout: inproceedings
+key: yoon10a
+month: 0
+firstpage: 940
+lastpage: 947
+origpdf: http://jmlr.org/proceedings/papers/v9/yoon10a/yoon10a.pdf
+sections: 
+authors:
+- given: Ji Won
+  family: Yoon
+- given: Simon
+  family: Wilson
+- given: K. Hun
+  family: Mok
+---

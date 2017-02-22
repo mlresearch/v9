@@ -1,0 +1,31 @@
+---
+title: Coherent Inference on Optimal Play in Game Trees
+abstract: Round-based games are an instance of discrete planning problems. Some of
+  the best contemporary game tree search algorithms use random roll-outs as data.
+  Relying on a good policy, they learn on-policy values by propagating information
+  upwards in the tree, but not between sibling nodes. Here, we present a generative
+  model and a corresponding approximate message passing scheme for inference on the
+  optimal, off-policy value of nodes in smooth AND/OR trees, given random roll-outs.
+  The crucial insight is that the distribution of values in game trees is not completely
+  arbitrary. We define a generative model of the on-policy values using a latent score
+  for each state, representing the value under the random roll-out policy. Inference
+  on the values under the optimal policy separates into an inductive, pre-data step
+  and a deductive, post-data part. Both can be solved approximately with Expectation
+  Propagation, allowing off-policy value inference for any node in the (exponentially
+  big) tree in linear time.
+pdf: "./hennig10a/hennig10a.pdf"
+layout: inproceedings
+key: hennig10a
+month: 0
+firstpage: 326
+lastpage: 333
+origpdf: http://jmlr.org/proceedings/papers/v9/hennig10a/hennig10a.pdf
+sections: 
+authors:
+- given: Philipp
+  family: Hennig
+- given: David
+  family: Stern
+- given: Thore
+  family: Graepel
+---

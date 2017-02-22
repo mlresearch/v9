@@ -1,0 +1,40 @@
+# Site settings
+# Auto generated from v9.bib
+---
+booktitle: Proceedings of the Thirteenth International Conference on Artificial Intelligence
+  and Statistics
+month: 0
+publisher: JMLR Workshop and Conference Proceedings
+volume: 9
+logoright: basic_files/SAIS_logo.jpg
+year: '2010'
+address: Chia Laguna Resort, Sardinia, Italy
+shortname: AISTATS 2010
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+key: TehAISTATS2010
+abstract: 
+origpdf: 
+pdf: "./TehAISTATS2010/TehAISTATS2010.pdf"
+editors:
+- given: Yee Whye
+  family: Teh
+- given: Mike
+  family: Titterington
+title: Proceedings of the Thirteenth International Conference on Artificial Intelligence
+  and Statistics
+conference: Proceedings of the Thirteenth International Conference on Artificial Intelligence
+  and Statistics
+email: ''
+description: Proceedings of the Thirteenth International Conference on Artificial
+  Intelligence and Statistics, Chia Laguna Resort, Sardinia, Italy
+url: http://proceedings.mlr.press
+baseurl: "/v9"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"

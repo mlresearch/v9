@@ -1,0 +1,32 @@
+---
+title: 'Noise-contrastive estimation: A new estimation principle for unnormalized
+  statistical models'
+abstract: 'We present a new estimation principle for parameterized statistical models.
+  The idea is to perform nonlinear logistic regression to discriminate between the
+  observed data and some artificially generated noise, using the model log-density
+  function in the regression nonlinearity.  We show that this leads to a consistent
+  (convergent) estimator of the parameters, and analyze the asymptotic variance.  In
+  particular, the method is shown to directly work for unnormalized models, i.e. models
+  where the density function does not integrate to one. The normalization constant
+  can be estimated just like any other parameter. For a tractable ICA model, we compare
+  the method with other estimation methods that can be used to learn unnormalized
+  models, including score matching, contrastive divergence, and maximum-likelihood
+  where the normalization constant is estimated with importance sampling. Simulations
+  show that noise-contrastive estimation offers the best trade-off between computational
+  and statistical efficiency. The method is then applied to the modeling of natural
+  images: We show that the method can successfully estimate a large-scale two-layer
+  model and a Markov random field.'
+pdf: "./gutmann10a/gutmann10a.pdf"
+layout: inproceedings
+key: gutmann10a
+month: 0
+firstpage: 297
+lastpage: 304
+origpdf: http://jmlr.org/proceedings/papers/v9/gutmann10a/gutmann10a.pdf
+sections: 
+authors:
+- given: Michael
+  family: Gutmann
+- given: Aapo
+  family: Hyvärinen
+---

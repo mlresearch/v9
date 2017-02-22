@@ -1,0 +1,30 @@
+---
+title: Fluid Dynamics Models for Low Rank Discriminant Analysis
+abstract: We consider the problem of reducing the dimensionality of labeled data for
+  classification. Unfortunately, the optimal approach of finding the low-dimensional
+  projection with minimal Bayes classification error is intractable, so most standard
+  algorithms optimize a tractable heuristic function in the projected subspace. Here,
+  we investigate a physics-based model where we consider the labeled data as interacting
+  fluid distributions. We derive the forces arising in the fluids from information
+  theoretic potential functions, and consider appropriate low rank constraints on
+  the resulting acceleration and velocity flow fields.  We show how to apply the Gauss
+  principle of least constraint in fluids to obtain tractable solutions for low rank
+  projections. Our fluid dynamic approach is demonstrated to better approximate the
+  Bayes optimal solution on Gaussian systems, including infinite dimensional Gaussian
+  processes.
+pdf: "./noh10a/noh10a.pdf"
+layout: inproceedings
+key: noh10a
+month: 0
+firstpage: 565
+lastpage: 572
+origpdf: http://jmlr.org/proceedings/papers/v9/noh10a/noh10a.pdf
+sections: 
+authors:
+- given: Yung–Kyun
+  family: Noh
+- given: Byoung–Tak
+  family: Zhang
+- given: Daniel
+  family: Lee
+---

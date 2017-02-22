@@ -1,0 +1,34 @@
+---
+title: 'Learning with Blocks: Composite Likelihood and Contrastive Divergence'
+abstract: Composite likelihood methods provide a wide spectrum of computationally
+  efficient techniques for statistical tasks such as parameter estimation and model
+  selection. In this paper, we present a formal connection between the optimization
+  of composite likelihoods and the well-known contrastive divergence algorithm. In
+  particular, we show that composite likelihoods can be stochastically optimized by
+  performing a variant of contrastive divergence with random-scan blocked Gibbs sampling.
+  By using higher-order composite likelihoods, our proposed learning framework makes
+  it possible to trade off computation time for increased accuracy. Furthermore, one
+  can choose composite likelihood blocks that match the model's dependence structure,
+  making the optimization of higher-order composite likelihoods computationally efficient.  We
+  empirically analyze the performance of blocked contrastive divergence on various
+  models, including visible Boltzmann machines, conditional random fields, and exponential
+  random graph models, and we demonstrate that using higher-order blocks improves
+  both the accuracy of parameter estimates and the rate of convergence.
+pdf: "./asuncion10a/asuncion10a.pdf"
+layout: inproceedings
+key: asuncion10a
+month: 0
+firstpage: 33
+lastpage: 40
+origpdf: http://jmlr.org/proceedings/papers/v9/asuncion10a/asuncion10a.pdf
+sections: 
+authors:
+- given: Arthur
+  family: Asuncion
+- given: Qiang
+  family: Liu
+- given: Alexander
+  family: Ihler
+- given: Padhraic
+  family: Smyth
+---

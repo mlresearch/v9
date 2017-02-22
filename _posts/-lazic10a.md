@@ -1,0 +1,29 @@
+---
+title: Solving the Uncapacitated Facility Location Problem Using Message Passing Algorithms
+abstract: The Uncapacitated Facility Location Problem (UFLP) is one of the most widely
+  studied discrete location problems, whose applications arise in a variety of settings.  We
+  tackle the UFLP using probabilistic inference in a graphical model - an approach
+  that has received little attention in the past.  We show that the fixed points of
+  max-product linear programming (MPLP), a convexified version of the max-product
+  algorithm, can be used to construct a solution with a 3-approximation guarantee
+  for metric UFLP instances.  In addition, we characterize some scenarios under which
+  the MPLP solution is guaranteed to be globally optimal.  We evaluate the performance
+  of both max-sum and MPLP empirically on metric and non-metric problems, demonstrating
+  the advantages of the 3-approximation construction and algorithm applicability to
+  non-metric instances.
+pdf: "./lazic10a/lazic10a.pdf"
+layout: inproceedings
+key: lazic10a
+month: 0
+firstpage: 429
+lastpage: 436
+origpdf: http://jmlr.org/proceedings/papers/v9/lazic10a/lazic10a.pdf
+sections: 
+authors:
+- given: Nevena
+  family: Lazic
+- given: Brendan
+  family: Frey
+- given: Parham
+  family: Aarabi
+---

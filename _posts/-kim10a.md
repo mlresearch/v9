@@ -1,0 +1,26 @@
+---
+title: Fast Active-set-type Algorithms for L1-regularized Linear Regression
+abstract: In this paper, we investigate new active-set-type methods for l1-regularized
+  linear regression that overcome some difficulties of existing active set methods.
+  By showing a relationship between l1-regularized linear regression and the linear
+  complementarity problem with bounds, we present a fast active-set-type method, called
+  block principal pivoting. This method accelerates computation by allowing exchanges
+  of several variables among working sets. We further provide an improvement of this
+  method, discuss its properties, and also explain a connection to the structure learning
+  of Gaussian graphical models. Experimental comparisons on synthetic and real data
+  sets show that the proposed method is significantly faster than existing active
+  set methods and competitive against recently developed iterative methods.
+pdf: "./kim10a/kim10a.pdf"
+layout: inproceedings
+key: kim10a
+month: 0
+firstpage: 397
+lastpage: 404
+origpdf: http://jmlr.org/proceedings/papers/v9/kim10a/kim10a.pdf
+sections: 
+authors:
+- given: Jingu
+  family: Kim
+- given: Haesun
+  family: Park
+---

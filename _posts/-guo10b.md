@@ -1,0 +1,29 @@
+---
+title: Real-time Multiattribute Bayesian Preference Elicitation with Pairwise Comparison
+  Queries
+abstract: 'Preference elicitation (PE) is an important component of interactive decision
+  support systems that aim to make optimal recommendations to users by actively querying
+  their preferences.  In this paper, we outline five principles important for PE in
+  real-world problems: (1) real-time, (2) multiattribute, (3) low cognitive load,
+  (4) robust to noise, and (5) scalable.  In light of these requirements, we introduce
+  an approximate PE framework based on TrueSkill for performing efficient closed-form
+  Bayesian updates and query selection for a multiattribute utility belief state ---
+  a novel PE approach that naturally facilitates the efficient evaluation of value
+  of information (VOI) heuristics for use in query selection strategies.  Our best
+  VOI query strategy satisfies all five principles (in contrast to related work) and
+  performs on par with the most accurate (and often computationally intensive) algorithms
+  on experiments with synthetic and real-world datasets.'
+pdf: "./guo10b/guo10b.pdf"
+layout: inproceedings
+key: guo10b
+month: 0
+firstpage: 289
+lastpage: 296
+origpdf: http://jmlr.org/proceedings/papers/v9/guo10b/guo10b.pdf
+sections: 
+authors:
+- given: Shengbo
+  family: Guo
+- given: Scott
+  family: Sanner
+---

@@ -1,0 +1,31 @@
+---
+title: Multitask Learning for Brain-Computer Interfaces
+abstract: Brain-computer interfaces (BCIs) are limited in their applicability in everyday
+  settings by the current necessity to record subject-specific calibration data prior
+  to actual use of the BCI for communication. In this paper, we utilize the framework
+  of multitask learning to construct a BCI that can be used without any subject-specific
+  calibration process. We discuss how this out-of-the-box BCI can be further improved
+  in a computationally efficient manner as subject-specific data becomes available.
+  The feasibility of the approach is demonstrated on two sets of experimental EEG
+  data recorded during a standard two-class motor imagery paradigm from a total of
+  19 healthy subjects. Specifically, we show that satisfactory classification results
+  can be achieved with zero training data, and combining prior recordings with subject-specific
+  calibration data substantially outperforms using subject-specific data only. Our
+  results further show that transfer between recordings under slightly different experimental
+  setups is feasible.
+pdf: "./alamgir10a/alamgir10a.pdf"
+layout: inproceedings
+key: alamgir10a
+month: 0
+firstpage: 17
+lastpage: 24
+origpdf: http://jmlr.org/proceedings/papers/v9/alamgir10a/alamgir10a.pdf
+sections: 
+authors:
+- given: Morteza
+  family: Alamgir
+- given: Moritz
+  family: Grosse–Wentrup
+- given: Yasemin
+  family: Altun
+---

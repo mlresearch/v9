@@ -1,0 +1,32 @@
+---
+title: Learning Nonlinear Dynamic Models from Non-sequenced Data
+abstract: 'Virtually all methods of learning dynamic systems from data start from
+  the same basic assumption: the learning algorithm will be given a sequence, or trajectory,
+  of data generated from the dynamic system.  We consider the case where the data
+  is not sequenced.  The training data points come from the system''s operation but
+  with no temporal ordering.  The data are simply drawn as individual disconnected
+  points.  While making this assumption may seem absurd at first glance, many scientific
+  modeling tasks have exactly this property.  Previous work proposed methods for learning
+  linear, discrete time models under these assumptions by optimizing approximate likelihood
+  functions.  In this paper, we extend those methods to nonlinear models using kernel
+  methods.  We go on to propose a new approach to solving the problem that focuses
+  on achieving temporal smoothness in the learned dynamics.  The result is a convex
+  criterion that can be easily optimized and often outperforms the earlier methods.  We
+  test these methods on several synthetic data sets including one generated from the
+  Lorenz attractor.'
+pdf: "./huang10c/huang10c.pdf"
+layout: inproceedings
+key: huang10c
+month: 0
+firstpage: 350
+lastpage: 357
+origpdf: http://jmlr.org/proceedings/papers/v9/huang10c/huang10c.pdf
+sections: 
+authors:
+- given: Tzu–Kuo
+  family: Huang
+- given: Le
+  family: Song
+- given: Jeff
+  family: Schneider
+---

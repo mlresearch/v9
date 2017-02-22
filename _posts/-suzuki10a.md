@@ -1,0 +1,25 @@
+---
+title: Sufficient Dimension Reduction via Squared-loss Mutual Information Estimation
+abstract: "The goal of sufficient dimension reduction in supervised learning is to
+  find the lowdimensional subspace of input features that is \x1Asufficient\x1A for
+  predicting output values. In this paper, we propose a novel sufficient dimension
+  reduction method using a squaredloss variant of mutual information as a dependency
+  measure. We utilize an analytic approximator of squared-loss mutual information
+  based on density ratio estimation, which is shown to possess suitable convergence
+  properties. We then develop a natural gradient algorithm for sufficient subspace
+  search. Numerical experiments show that the proposed method compares favorably with
+  existing dimension reduction approaches."
+pdf: "./suzuki10a/suzuki10a.pdf"
+layout: inproceedings
+key: suzuki10a
+month: 0
+firstpage: 804
+lastpage: 811
+origpdf: http://jmlr.org/proceedings/papers/v9/suzuki10a/suzuki10a.pdf
+sections: 
+authors:
+- given: Taiji
+  family: Suzuki
+- given: Masashi
+  family: Sugiyama
+---
