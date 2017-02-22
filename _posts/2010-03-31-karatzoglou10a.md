@@ -15,17 +15,20 @@ abstract: Matrix factorization is a successful technique for building   collabor
   how this approach can be   extended to multipartite problems.
 pdf: "./karatzoglou10a/karatzoglou10a.pdf"
 layout: inproceedings
-key: karatzoglou10a
+id: karatzoglou10a
 month: 0
 firstpage: 389
 lastpage: 396
+page: 389-396
 origpdf: http://jmlr.org/proceedings/papers/v9/karatzoglou10a/karatzoglou10a.pdf
 sections: 
-authors:
+author:
 - given: Alexandros
   family: Karatzoglou
 - given: Alex
   family: Smola
 - given: Markus
   family: Weimer
+date: '2010-03-31 00:06:29'
+publisher: PMLR
 ---

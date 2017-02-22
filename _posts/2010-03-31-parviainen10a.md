@@ -12,15 +12,18 @@ abstract: Current exact algorithms for score-based structure discovery in Bayesi
   of independent interest.
 pdf: "./parviainen10a/parviainen10a.pdf"
 layout: inproceedings
-key: parviainen10a
+id: parviainen10a
 month: 0
 firstpage: 589
 lastpage: 596
+page: 589-596
 origpdf: http://jmlr.org/proceedings/papers/v9/parviainen10a/parviainen10a.pdf
 sections: 
-authors:
+author:
 - given: Pekka
   family: Parviainen
 - given: Mikko
   family: Koivisto
+date: '2010-03-31 00:09:49'
+publisher: PMLR
 ---

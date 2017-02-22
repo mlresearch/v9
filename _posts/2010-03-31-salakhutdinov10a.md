@@ -16,15 +16,18 @@ abstract: We present a new approximate inference algorithm for Deep Boltzmann Ma
   and NORB visual object recognition tasks.
 pdf: "./salakhutdinov10a/salakhutdinov10a.pdf"
 layout: inproceedings
-key: salakhutdinov10a
+id: salakhutdinov10a
 month: 0
 firstpage: 693
 lastpage: 700
+page: 693-700
 origpdf: http://jmlr.org/proceedings/papers/v9/salakhutdinov10a/salakhutdinov10a.pdf
 sections: 
-authors:
+author:
 - given: Ruslan
   family: Salakhutdinov
 - given: Hugo
   family: Larochelle
+date: '2010-03-31 00:11:33'
+publisher: PMLR
 ---

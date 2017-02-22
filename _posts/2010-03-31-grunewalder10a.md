@@ -12,13 +12,14 @@ abstract: Bandit algorithms are concerned with trading exploration with exploita
   bounds.
 pdf: "./grunewalder10a/grunewalder10a.pdf"
 layout: inproceedings
-key: grunewalder10a
+id: grunewalder10a
 month: 0
 firstpage: 273
 lastpage: 280
+page: 273-280
 origpdf: http://jmlr.org/proceedings/papers/v9/grunewalder10a/grunewalder10a.pdf
 sections: 
-authors:
+author:
 - given: Steffen
   family: Grünewälder
 - given: Jean–Yves
@@ -27,4 +28,6 @@ authors:
   family: Opper
 - given: John
   family: Shawe–Taylor
+date: '2010-03-31 00:04:33'
+publisher: PMLR
 ---

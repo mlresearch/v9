@@ -12,13 +12,16 @@ abstract: We present a simple, effective generalisation of variable order   Mark
 pdf: "./dimitrakakis10a/dimitrakakis10a.pdf"
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v9/dimitrakakis10a/dimitrakakis10aSupple.tgz
 layout: inproceedings
-key: dimitrakakis10a
+id: dimitrakakis10a
 month: 0
 firstpage: 161
 lastpage: 168
+page: 161-168
 origpdf: http://jmlr.org/proceedings/papers/v9/dimitrakakis10a/dimitrakakis10a.pdf
 sections: 
-authors:
+author:
 - given: Christos
   family: Dimitrakakis
+date: '2010-03-31 00:02:41'
+publisher: PMLR
 ---

@@ -15,15 +15,18 @@ abstract: Real stochastic processes operate in continuous time and can be modele
   speedups of several orders of magnitude compared to the original model.
 pdf: "./chatterjee10a/chatterjee10a.pdf"
 layout: inproceedings
-key: chatterjee10a
+id: chatterjee10a
 month: 0
 firstpage: 81
 lastpage: 88
+page: 81-88
 origpdf: http://jmlr.org/proceedings/papers/v9/chatterjee10a/chatterjee10a.pdf
 sections: 
-authors:
+author:
 - given: Shaunak
   family: Chatterjee
 - given: Stuart
   family: Russell
+date: '2010-03-31 00:01:21'
+publisher: PMLR
 ---

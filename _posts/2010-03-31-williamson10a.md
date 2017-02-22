@@ -16,17 +16,20 @@ abstract: Latent variable models represent hidden structure in observational dat
   significantly improves accuracy of predictions.
 pdf: "./williamson10a/williamson10a.pdf"
 layout: inproceedings
-key: williamson10a
+id: williamson10a
 month: 0
 firstpage: 924
 lastpage: 931
+page: 924-931
 origpdf: http://jmlr.org/proceedings/papers/v9/williamson10a/williamson10a.pdf
 sections: 
-authors:
+author:
 - given: Sinead
   family: Williamson
 - given: Peter
   family: Orbanz
 - given: Zoubin
   family: Ghahramani
+date: '2010-03-31 00:15:24'
+publisher: PMLR
 ---

@@ -19,11 +19,11 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: TehAISTATS2010
+id: TehAISTATS2010
 abstract: 
 origpdf: 
 pdf: "./TehAISTATS2010/TehAISTATS2010.pdf"
-editors:
+editor:
 - given: Yee Whye
   family: Teh
 - given: Mike

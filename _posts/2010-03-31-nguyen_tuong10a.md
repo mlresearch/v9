@@ -15,15 +15,18 @@ abstract: Online model learning in real-time is required by many applications, f
   approach in real-time online model learning for real world systems.
 pdf: "./nguyen_tuong10a/nguyen_tuong10a.pdf"
 layout: inproceedings
-key: nguyen_tuong10a
+id: nguyen_tuong10a
 month: 0
 firstpage: 557
 lastpage: 564
+page: 557-564
 origpdf: http://jmlr.org/proceedings/papers/v9/nguyen_tuong10a/nguyen_tuong10a.pdf
 sections: 
-authors:
+author:
 - given: Duy
   family: Nguyen–Tuong
 - given: Jan
   family: Peters
+date: '2010-03-31 00:09:17'
+publisher: PMLR
 ---

@@ -14,15 +14,18 @@ abstract: Concentration inequalities that incorporate variance information (such
   could be a viable alternative to empirical risk minimization.
 pdf: "./shivaswamy10a/shivaswamy10a.pdf"
 layout: inproceedings
-key: shivaswamy10a
+id: shivaswamy10a
 month: 0
 firstpage: 733
 lastpage: 740
+page: 733-740
 origpdf: http://jmlr.org/proceedings/papers/v9/shivaswamy10a/shivaswamy10a.pdf
 sections: 
-authors:
+author:
 - given: Pannagadatta
   family: Shivaswamy
 - given: Tony
   family: Jebara
+date: '2010-03-31 00:12:13'
+publisher: PMLR
 ---

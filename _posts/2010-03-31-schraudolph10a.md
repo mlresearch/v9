@@ -11,13 +11,16 @@ abstract: We develop a new form of reweighting (Wainwright et al., 2005) to leve
   them.
 pdf: "./schraudolph10a/schraudolph10a.pdf"
 layout: inproceedings
-key: schraudolph10a
+id: schraudolph10a
 month: 0
 firstpage: 717
 lastpage: 724
+page: 717-724
 origpdf: http://jmlr.org/proceedings/papers/v9/schraudolph10a/schraudolph10a.pdf
 sections: 
-authors:
+author:
 - given: Nic
   family: Schraudolph
+date: '2010-03-31 00:11:57'
+publisher: PMLR
 ---

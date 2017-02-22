@@ -15,17 +15,20 @@ abstract: Universal kernels have been shown to play an important role in the ach
   etc.
 pdf: "./sriperumbudur10a/sriperumbudur10a.pdf"
 layout: inproceedings
-key: sriperumbudur10a
+id: sriperumbudur10a
 month: 0
 firstpage: 773
 lastpage: 780
+page: 773-780
 origpdf: http://jmlr.org/proceedings/papers/v9/sriperumbudur10a/sriperumbudur10a.pdf
 sections: 
-authors:
+author:
 - given: Bharath
   family: Sriperumbudur
 - given: Kenji
   family: Fukumizu
 - given: Gert
   family: Lanckriet
+date: '2010-03-31 00:12:53'
+publisher: PMLR
 ---

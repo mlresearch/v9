@@ -12,13 +12,14 @@ abstract: Alternating Gibbs sampling is the most common scheme used for sampling
   both sampling and learning.
 pdf: "./desjardins10a/desjardins10a.pdf"
 layout: inproceedings
-key: desjardins10a
+id: desjardins10a
 month: 0
 firstpage: 145
 lastpage: 152
+page: 145-152
 origpdf: http://jmlr.org/proceedings/papers/v9/desjardins10a/desjardins10a.pdf
 sections: 
-authors:
+author:
 - given: Guillaume
   family: Desjardins
 - given: Aaron
@@ -29,4 +30,6 @@ authors:
   family: Vincent
 - given: Olivier
   family: Delalleau
+date: '2010-03-31 00:02:25'
+publisher: PMLR
 ---

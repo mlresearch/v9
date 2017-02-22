@@ -11,17 +11,20 @@ abstract: We present an algorithm name cSAT+ for learning the causal structure i
   solving a similar but more general problem, by two orders of magnitude.
 pdf: "./triantafillou10a/triantafillou10a.pdf"
 layout: inproceedings
-key: triantafillou10a
+id: triantafillou10a
 month: 0
 firstpage: 860
 lastpage: 867
+page: 860-867
 origpdf: http://jmlr.org/proceedings/papers/v9/triantafillou10a/triantafillou10a.pdf
 sections: 
-authors:
+author:
 - given: Sofia
   family: Triantafillou
 - given: Ioannis
   family: Tsamardinos
 - given: Ioannis
   family: Tollis
+date: '2010-03-31 00:14:20'
+publisher: PMLR
 ---
