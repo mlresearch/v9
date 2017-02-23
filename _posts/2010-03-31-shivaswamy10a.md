@@ -12,20 +12,20 @@ abstract: Concentration inequalities that incorporate variance information (such
   a strict generalization. Experiments on a large number of datasets show significant
   performance gains over AdaBoost. This paper shows that sample variance penalization
   could be a viable alternative to empirical risk minimization.
-pdf: http://proceedings.pmlr.press/shivaswamy10a/shivaswamy10a.pdf
+pdf: http://jmlr.org/proceedings/papers/v9/shivaswamy10a/shivaswamy10a.pdf
 layout: inproceedings
 id: shivaswamy10a
 month: 0
 firstpage: 733
 lastpage: 740
 page: 733-740
-origpdf: http://jmlr.org/proceedings/papers/v9/shivaswamy10a/shivaswamy10a.pdf
 sections: 
 author:
 - given: Pannagadatta
   family: Shivaswamy
 - given: Tony
   family: Jebara
+reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR

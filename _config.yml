@@ -20,8 +20,6 @@ sections:
 layout: proceedings
 id: TehAISTATS2010
 abstract: ''
-origpdf: 
-pdf: http://proceedings.pmlr.press/TehAISTATS2010/TehAISTATS2010.pdf
 editor:
 - given: Yee Whye
   family: Teh

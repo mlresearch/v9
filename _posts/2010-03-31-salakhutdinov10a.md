@@ -14,20 +14,20 @@ abstract: We present a new approximate inference algorithm for Deep Boltzmann Ma
   that the DBM’s trained using the proposed approximate inference algorithm perform
   well compared to DBN’s and SVM’s on the MNIST handwritten digit, OCR English letters,
   and NORB visual object recognition tasks.
-pdf: http://proceedings.pmlr.press/salakhutdinov10a/salakhutdinov10a.pdf
+pdf: http://jmlr.org/proceedings/papers/v9/salakhutdinov10a/salakhutdinov10a.pdf
 layout: inproceedings
 id: salakhutdinov10a
 month: 0
 firstpage: 693
 lastpage: 700
 page: 693-700
-origpdf: http://jmlr.org/proceedings/papers/v9/salakhutdinov10a/salakhutdinov10a.pdf
 sections: 
 author:
 - given: Ruslan
   family: Salakhutdinov
 - given: Hugo
   family: Larochelle
+reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR

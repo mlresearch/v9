@@ -10,14 +10,13 @@ abstract: Bandit algorithms are concerned with trading exploration with exploita
   these upper bounds with corresponding lower bounds for particular covariance functions
   demonstrating that in general there is at most a logarithmic looseness in our upper
   bounds.
-pdf: http://proceedings.pmlr.press/grunewalder10a/grunewalder10a.pdf
+pdf: http://jmlr.org/proceedings/papers/v9/grunewalder10a/grunewalder10a.pdf
 layout: inproceedings
 id: grunewalder10a
 month: 0
 firstpage: 273
 lastpage: 280
 page: 273-280
-origpdf: http://jmlr.org/proceedings/papers/v9/grunewalder10a/grunewalder10a.pdf
 sections: 
 author:
 - given: Steffen
@@ -28,6 +27,7 @@ author:
   family: Opper
 - given: John
   family: Shawe–Taylor
+reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR
