@@ -25,6 +25,7 @@ author:
 - given: Mikko
   family: Koivisto
 date: 2010-03-31
+address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR
 container-title: Proceedings of the Thirteenth International Conference on Artificial
   Intelligence and Statistics
