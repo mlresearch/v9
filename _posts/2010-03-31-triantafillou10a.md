@@ -9,7 +9,7 @@ abstract: We present an algorithm name cSAT+ for learning the causal structure i
   SAT problems, obtaining leverage from the efficiency of state-of-the-art solvers.
   In our empirical evaluation, it is shown to outperform ION, the first algorithm
   solving a similar but more general problem, by two orders of magnitude.
-pdf: http://jmlr.org/proceedings/papers/v9/triantafillou10a/triantafillou10a.pdf
+pdf: http://proceedings.mlr.press/v9/triantafillou10a/triantafillou10a.pdf
 layout: inproceedings
 id: triantafillou10a
 month: 0
@@ -24,7 +24,6 @@ author:
   family: Tsamardinos
 - given: Ioannis
   family: Tollis
-reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR

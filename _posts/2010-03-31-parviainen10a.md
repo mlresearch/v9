@@ -10,7 +10,7 @@ abstract: Current exact algorithms for score-based structure discovery in Bayesi
   recently for related permutation problems. The main technical contribution is the
   development of a fast algorithm for a novel zeta transform variant, which may be
   of independent interest.
-pdf: http://jmlr.org/proceedings/papers/v9/parviainen10a/parviainen10a.pdf
+pdf: http://proceedings.mlr.press/v9/parviainen10a/parviainen10a.pdf
 layout: inproceedings
 id: parviainen10a
 month: 0
@@ -23,7 +23,6 @@ author:
   family: Parviainen
 - given: Mikko
   family: Koivisto
-reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR

@@ -13,7 +13,7 @@ abstract: Universal kernels have been shown to play an important role in the ach
   have been proposed in the context of the RKHS embedding of probability measures,
   used in statistical applications like homogeneity testing, independence testing,
   etc.
-pdf: http://jmlr.org/proceedings/papers/v9/sriperumbudur10a/sriperumbudur10a.pdf
+pdf: http://proceedings.mlr.press/v9/sriperumbudur10a/sriperumbudur10a.pdf
 layout: inproceedings
 id: sriperumbudur10a
 month: 0
@@ -28,7 +28,6 @@ author:
   family: Fukumizu
 - given: Gert
   family: Lanckriet
-reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR

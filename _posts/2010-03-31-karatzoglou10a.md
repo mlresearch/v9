@@ -13,7 +13,7 @@ abstract: Matrix factorization is a successful technique for building   collabor
   for a   representation of the EachMovie problem).    We provide both experimental
   results and approximation bounds for   our compressed representation and we show
   how this approach can be   extended to multipartite problems.
-pdf: http://jmlr.org/proceedings/papers/v9/karatzoglou10a/karatzoglou10a.pdf
+pdf: http://proceedings.mlr.press/v9/karatzoglou10a/karatzoglou10a.pdf
 layout: inproceedings
 id: karatzoglou10a
 month: 0
@@ -28,7 +28,6 @@ author:
   family: Smola
 - given: Markus
   family: Weimer
-reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR

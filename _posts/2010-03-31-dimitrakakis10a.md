@@ -9,7 +9,7 @@ abstract: We present a simple, effective generalisation of variable order   Mark
   necessary.  In addition, our model can be alternatively seen as a   mixture of tree
   experts.  Experimental results show that the   predictive model exhibits consistently
   good performance in a variety   of domains.
-pdf: http://jmlr.org/proceedings/papers/v9/dimitrakakis10a/dimitrakakis10a.pdf
+pdf: http://proceedings.mlr.press/v9/dimitrakakis10a/dimitrakakis10a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v9/dimitrakakis10a/dimitrakakis10aSupple.tgz
 layout: inproceedings
 id: dimitrakakis10a
@@ -21,7 +21,6 @@ sections:
 author:
 - given: Christos
   family: Dimitrakakis
-reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR

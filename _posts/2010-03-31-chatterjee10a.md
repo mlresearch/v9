@@ -13,7 +13,7 @@ abstract: Real stochastic processes operate in continuous time and can be modele
   DBN model for any desired time step. We illustrate the method by generating a series
   of approximations to a simple pH model for the human body, demonstrating speedups
   of several orders of magnitude compared to the original model.
-pdf: http://jmlr.org/proceedings/papers/v9/chatterjee10a/chatterjee10a.pdf
+pdf: http://proceedings.mlr.press/v9/chatterjee10a/chatterjee10a.pdf
 layout: inproceedings
 id: chatterjee10a
 month: 0
@@ -26,7 +26,6 @@ author:
   family: Chatterjee
 - given: Stuart
   family: Russell
-reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR

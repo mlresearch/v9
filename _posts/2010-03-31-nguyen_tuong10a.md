@@ -13,7 +13,7 @@ abstract: Online model learning in real-time is required by many applications, f
   It exhibits competitive learning accuracy when compared with standard regression
   techniques. Implementation on a real robot emphasizes the applicability of the proposed
   approach in real-time online model learning for real world systems.
-pdf: http://jmlr.org/proceedings/papers/v9/nguyen_tuong10a/nguyen_tuong10a.pdf
+pdf: http://proceedings.mlr.press/v9/nguyen_tuong10a/nguyen_tuong10a.pdf
 layout: inproceedings
 id: nguyen_tuong10a
 month: 0
@@ -26,7 +26,6 @@ author:
   family: Nguyen–Tuong
 - given: Jan
   family: Peters
-reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR

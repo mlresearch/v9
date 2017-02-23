@@ -14,7 +14,7 @@ abstract: Latent variable models represent hidden structure in observational dat
   algorithm for  Bayesian inference, and provide experiments on both synthetic and
   real-world data. The experimental results show that explicit modeling of dependencies
   significantly improves accuracy of predictions.
-pdf: http://jmlr.org/proceedings/papers/v9/williamson10a/williamson10a.pdf
+pdf: http://proceedings.mlr.press/v9/williamson10a/williamson10a.pdf
 layout: inproceedings
 id: williamson10a
 month: 0
@@ -29,7 +29,6 @@ author:
   family: Orbanz
 - given: Zoubin
   family: Ghahramani
-reponame: v9
 date: 2010-03-31
 address: Chia Laguna Resort, Sardinia, Italy
 publisher: PMLR
