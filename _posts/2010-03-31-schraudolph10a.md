@@ -9,7 +9,7 @@ abstract: We develop a new form of reweighting (Wainwright et al., 2005) to leve
   scales as O(n³) even though this problem is NP-hard and non-approximable in polynomial
   time. We discuss limitations of our current implementation and propose ways to overcome
   them.
-pdf: "./schraudolph10a/schraudolph10a.pdf"
+pdf: http://proceedings.pmlr.press/schraudolph10a/schraudolph10a.pdf
 layout: inproceedings
 id: schraudolph10a
 month: 0
@@ -21,6 +21,16 @@ sections:
 author:
 - given: Nic
   family: Schraudolph
-date: '2010-03-31 00:11:57'
+date: 2010-03-31
 publisher: PMLR
+container-title: Proceedings of the Thirteenth International Conference on Artificial
+  Intelligence and Statistics
+volume: '9'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2010
+  - 3
+  - 31
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

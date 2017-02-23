@@ -10,7 +10,7 @@ abstract: Alternating Gibbs sampling is the most common scheme used for sampling
   of tempered Markov Chain Monte-Carlo for sampling in RBMs.  We find both through
   visualization of samples and measures of likelihood on a toy dataset that it helps
   both sampling and learning.
-pdf: "./desjardins10a/desjardins10a.pdf"
+pdf: http://proceedings.pmlr.press/desjardins10a/desjardins10a.pdf
 layout: inproceedings
 id: desjardins10a
 month: 0
@@ -30,6 +30,16 @@ author:
   family: Vincent
 - given: Olivier
   family: Delalleau
-date: '2010-03-31 00:02:25'
+date: 2010-03-31
 publisher: PMLR
+container-title: Proceedings of the Thirteenth International Conference on Artificial
+  Intelligence and Statistics
+volume: '9'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2010
+  - 3
+  - 31
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

@@ -11,7 +11,6 @@ year: '2010'
 start: 2010-05-13
 end: 2010-05-15
 published: 2010-03-31
-address: Chia Laguna Resort, Sardinia, Italy
 shortname: AISTATS 2010
 sections:
 - name: preface
@@ -20,17 +19,15 @@ sections:
   title: Accepted Papers
 layout: proceedings
 id: TehAISTATS2010
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./TehAISTATS2010/TehAISTATS2010.pdf"
+pdf: http://proceedings.pmlr.press/TehAISTATS2010/TehAISTATS2010.pdf
 editor:
 - given: Yee Whye
   family: Teh
 - given: Mike
   family: Titterington
 title: Proceedings of the Thirteenth International Conference on Artificial Intelligence
-  and Statistics
-conference: Proceedings of the Thirteenth International Conference on Artificial Intelligence
   and Statistics
 email: ''
 description: Proceedings of the Thirteenth International Conference on Artificial
@@ -41,8 +38,17 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v9
+conference:
+  name: 
+  url: 
+  location: Chia Laguna Resort, Sardinia, Italy
+  dates:
+  - 2010-05-13
+  - 2010-05-14
+  - 2010-05-15
 analytics:
   google:
     tracking_id: UA-92432422-1
