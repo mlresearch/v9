@@ -14,8 +14,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: schraudolph10a
 month: 0
-firstpage: '717'
-lastpage: '724'
+firstpage: 717
+lastpage: 724
 page: 717-724
 sections: 
 author:

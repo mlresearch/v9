@@ -14,8 +14,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: triantafillou10a
 month: 0
-firstpage: '860'
-lastpage: '867'
+firstpage: 860
+lastpage: 867
 page: 860-867
 sections: 
 author:

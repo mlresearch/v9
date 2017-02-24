@@ -18,8 +18,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: chatterjee10a
 month: 0
-firstpage: '81'
-lastpage: '88'
+firstpage: 81
+lastpage: 88
 page: 81-88
 sections: 
 author:

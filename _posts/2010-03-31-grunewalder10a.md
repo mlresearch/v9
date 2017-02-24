@@ -15,8 +15,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: grunewalder10a
 month: 0
-firstpage: '273'
-lastpage: '280'
+firstpage: 273
+lastpage: 280
 page: 273-280
 sections: 
 author:

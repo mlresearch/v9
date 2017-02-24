@@ -15,8 +15,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: desjardins10a
 month: 0
-firstpage: '145'
-lastpage: '152'
+firstpage: 145
+lastpage: 152
 page: 145-152
 sections: 
 author:
