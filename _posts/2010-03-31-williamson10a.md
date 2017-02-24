@@ -19,8 +19,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: williamson10a
 month: 0
-firstpage: 924
-lastpage: 931
+firstpage: '924'
+lastpage: '931'
 page: 924-931
 sections: 
 author:

@@ -18,8 +18,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: sriperumbudur10a
 month: 0
-firstpage: 773
-lastpage: 780
+firstpage: '773'
+lastpage: '780'
 page: 773-780
 sections: 
 author:

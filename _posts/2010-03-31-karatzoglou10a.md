@@ -18,8 +18,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: karatzoglou10a
 month: 0
-firstpage: 389
-lastpage: 396
+firstpage: '389'
+lastpage: '396'
 page: 389-396
 sections: 
 author:

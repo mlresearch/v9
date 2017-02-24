@@ -15,8 +15,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: dimitrakakis10a
 month: 0
-firstpage: 161
-lastpage: 168
+firstpage: '161'
+lastpage: '168'
 page: 161-168
 sections: 
 author:

@@ -15,8 +15,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: parviainen10a
 month: 0
-firstpage: 589
-lastpage: 596
+firstpage: '589'
+lastpage: '596'
 page: 589-596
 sections: 
 author:

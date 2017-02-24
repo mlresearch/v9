@@ -18,8 +18,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: nguyen_tuong10a
 month: 0
-firstpage: 557
-lastpage: 564
+firstpage: '557'
+lastpage: '564'
 page: 557-564
 sections: 
 author:
