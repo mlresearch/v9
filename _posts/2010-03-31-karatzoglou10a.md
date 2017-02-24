@@ -15,6 +15,7 @@ abstract: Matrix factorization is a successful technique for building   collabor
   how this approach can be   extended to multipartite problems.
 pdf: http://proceedings.mlr.press/v9/karatzoglou10a/karatzoglou10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: karatzoglou10a
 month: 0
 firstpage: 389

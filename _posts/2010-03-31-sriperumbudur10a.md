@@ -15,6 +15,7 @@ abstract: Universal kernels have been shown to play an important role in the ach
   etc.
 pdf: http://proceedings.mlr.press/v9/sriperumbudur10a/sriperumbudur10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: sriperumbudur10a
 month: 0
 firstpage: 773

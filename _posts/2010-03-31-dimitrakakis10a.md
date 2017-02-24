@@ -12,6 +12,7 @@ abstract: We present a simple, effective generalisation of variable order   Mark
 pdf: http://proceedings.mlr.press/v9/dimitrakakis10a/dimitrakakis10a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v9/dimitrakakis10a/dimitrakakis10aSupple.tgz
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: dimitrakakis10a
 month: 0
 firstpage: 161

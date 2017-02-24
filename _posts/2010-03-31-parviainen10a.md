@@ -12,6 +12,7 @@ abstract: Current exact algorithms for score-based structure discovery in Bayesi
   of independent interest.
 pdf: http://proceedings.mlr.press/v9/parviainen10a/parviainen10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: parviainen10a
 month: 0
 firstpage: 589

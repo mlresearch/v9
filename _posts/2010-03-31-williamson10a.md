@@ -16,6 +16,7 @@ abstract: Latent variable models represent hidden structure in observational dat
   significantly improves accuracy of predictions.
 pdf: http://proceedings.mlr.press/v9/williamson10a/williamson10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: williamson10a
 month: 0
 firstpage: 924

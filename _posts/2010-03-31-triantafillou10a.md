@@ -11,6 +11,7 @@ abstract: We present an algorithm name cSAT+ for learning the causal structure i
   solving a similar but more general problem, by two orders of magnitude.
 pdf: http://proceedings.mlr.press/v9/triantafillou10a/triantafillou10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: triantafillou10a
 month: 0
 firstpage: 860

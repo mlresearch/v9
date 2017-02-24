@@ -14,6 +14,7 @@ abstract: Concentration inequalities that incorporate variance information (such
   could be a viable alternative to empirical risk minimization.
 pdf: http://proceedings.mlr.press/v9/shivaswamy10a/shivaswamy10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: shivaswamy10a
 month: 0
 firstpage: 733

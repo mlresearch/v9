@@ -12,6 +12,7 @@ abstract: Alternating Gibbs sampling is the most common scheme used for sampling
   both sampling and learning.
 pdf: http://proceedings.mlr.press/v9/desjardins10a/desjardins10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: desjardins10a
 month: 0
 firstpage: 145

@@ -12,6 +12,7 @@ abstract: Bandit algorithms are concerned with trading exploration with exploita
   bounds.
 pdf: http://proceedings.mlr.press/v9/grunewalder10a/grunewalder10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: grunewalder10a
 month: 0
 firstpage: 273

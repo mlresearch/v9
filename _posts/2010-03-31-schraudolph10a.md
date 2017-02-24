@@ -11,6 +11,7 @@ abstract: We develop a new form of reweighting (Wainwright et al., 2005) to leve
   them.
 pdf: http://proceedings.mlr.press/v9/schraudolph10a/schraudolph10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: schraudolph10a
 month: 0
 firstpage: 717

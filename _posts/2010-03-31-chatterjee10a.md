@@ -15,6 +15,7 @@ abstract: Real stochastic processes operate in continuous time and can be modele
   of several orders of magnitude compared to the original model.
 pdf: http://proceedings.mlr.press/v9/chatterjee10a/chatterjee10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: chatterjee10a
 month: 0
 firstpage: 81

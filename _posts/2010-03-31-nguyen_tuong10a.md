@@ -15,6 +15,7 @@ abstract: Online model learning in real-time is required by many applications, f
   approach in real-time online model learning for real world systems.
 pdf: http://proceedings.mlr.press/v9/nguyen_tuong10a/nguyen_tuong10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: nguyen_tuong10a
 month: 0
 firstpage: 557
