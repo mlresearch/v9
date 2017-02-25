@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: salakhutdinov10a
 month: 0
+tex_title: Efficient Learning of Deep Boltzmann Machines
 firstpage: 693
 lastpage: 700
 page: 693-700

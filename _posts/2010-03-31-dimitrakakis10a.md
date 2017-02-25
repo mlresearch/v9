@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: dimitrakakis10a
 month: 0
+tex_title: Bayesian variable order Markov models
 firstpage: 161
 lastpage: 168
 page: 161-168

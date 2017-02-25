@@ -14,6 +14,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: triantafillou10a
 month: 0
+tex_title: Learning Causal Structure from Overlapping Variable Sets
 firstpage: 860
 lastpage: 867
 page: 860-867

@@ -18,6 +18,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: sriperumbudur10a
 month: 0
+tex_title: On the relation between universality, characteristic kernels and RKHS embedding
+  of measures
 firstpage: 773
 lastpage: 780
 page: 773-780

@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: grunewalder10a
 month: 0
+tex_title: Regret Bounds for Gaussian Process Bandit Problems
 firstpage: 273
 lastpage: 280
 page: 273-280

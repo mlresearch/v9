@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: chatterjee10a
 month: 0
+tex_title: Why are DBNs sparse?
 firstpage: 81
 lastpage: 88
 page: 81-88

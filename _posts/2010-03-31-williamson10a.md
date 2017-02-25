@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: williamson10a
 month: 0
+tex_title: Dependent Indian Buffet Processes
 firstpage: 924
 lastpage: 931
 page: 924-931

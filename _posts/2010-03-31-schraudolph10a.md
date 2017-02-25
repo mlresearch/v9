@@ -14,6 +14,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: schraudolph10a
 month: 0
+tex_title: Polynomial-Time Exact Inference in NP-Hard Binary MRFs via Reweighted Perfect
+  Matching
 firstpage: 717
 lastpage: 724
 page: 717-724

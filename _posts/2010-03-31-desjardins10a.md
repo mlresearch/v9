@@ -15,6 +15,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: desjardins10a
 month: 0
+tex_title: Tempered Markov Chain Monte Carlo for training of Restricted Boltzmann
+  Machines
 firstpage: 145
 lastpage: 152
 page: 145-152

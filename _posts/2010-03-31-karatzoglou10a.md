@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: karatzoglou10a
 month: 0
+tex_title: Collaborative Filtering on a Budget
 firstpage: 389
 lastpage: 396
 page: 389-396

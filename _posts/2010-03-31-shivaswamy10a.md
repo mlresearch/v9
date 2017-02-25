@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shivaswamy10a
 month: 0
+tex_title: Empirical Bernstein Boosting
 firstpage: 733
 lastpage: 740
 page: 733-740
