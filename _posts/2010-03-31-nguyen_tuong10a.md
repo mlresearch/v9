@@ -22,7 +22,8 @@ tex_title: Incremental Sparsification for Real-time Online Model Learning
 firstpage: 557
 lastpage: 564
 page: 557-564
-sections: 
+order: 557
+cycles: false
 author:
 - given: Duy
   family: Nguyen–Tuong

@@ -23,7 +23,8 @@ tex_title: Dependent Indian Buffet Processes
 firstpage: 924
 lastpage: 931
 page: 924-931
-sections: 
+order: 924
+cycles: false
 author:
 - given: Sinead
   family: Williamson

@@ -22,7 +22,8 @@ tex_title: Why are DBNs sparse?
 firstpage: 81
 lastpage: 88
 page: 81-88
-sections: 
+order: 81
+cycles: false
 author:
 - given: Shaunak
   family: Chatterjee

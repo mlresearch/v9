@@ -19,7 +19,8 @@ tex_title: Regret Bounds for Gaussian Process Bandit Problems
 firstpage: 273
 lastpage: 280
 page: 273-280
-sections: 
+order: 273
+cycles: false
 author:
 - given: Steffen
   family: Grünewälder

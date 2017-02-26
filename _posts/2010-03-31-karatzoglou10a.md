@@ -22,7 +22,8 @@ tex_title: Collaborative Filtering on a Budget
 firstpage: 389
 lastpage: 396
 page: 389-396
-sections: 
+order: 389
+cycles: false
 author:
 - given: Alexandros
   family: Karatzoglou

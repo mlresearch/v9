@@ -19,7 +19,8 @@ tex_title: Bayesian structure discovery in Bayesian networks with less space
 firstpage: 589
 lastpage: 596
 page: 589-596
-sections: 
+order: 589
+cycles: false
 author:
 - given: Pekka
   family: Parviainen

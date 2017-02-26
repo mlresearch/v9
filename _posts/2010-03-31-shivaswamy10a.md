@@ -21,7 +21,8 @@ tex_title: Empirical Bernstein Boosting
 firstpage: 733
 lastpage: 740
 page: 733-740
-sections: 
+order: 733
+cycles: false
 author:
 - given: Pannagadatta
   family: Shivaswamy

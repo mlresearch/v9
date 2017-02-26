@@ -23,7 +23,8 @@ tex_title: Efficient Learning of Deep Boltzmann Machines
 firstpage: 693
 lastpage: 700
 page: 693-700
-sections: 
+order: 693
+cycles: false
 author:
 - given: Ruslan
   family: Salakhutdinov

@@ -10,7 +10,7 @@ abstract: We present a simple, effective generalisation of variable order   Mark
   experts.  Experimental results show that the   predictive model exhibits consistently
   good performance in a variety   of domains.
 pdf: http://proceedings.mlr.press/v9/dimitrakakis10a/dimitrakakis10a.pdf
-supplementary: Supplementary:http://jmlr.org/proceedings/papers/v9/dimitrakakis10a/dimitrakakis10aSupple.tgz
+supplementary: http://proceedings.mlr.press/v9/dimitrakakis10a///jmlr.org/proceedings/papers/v9/dimitrakakis10a/dimitrakakis10aSupple.tgz
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: dimitrakakis10a
@@ -19,7 +19,8 @@ tex_title: Bayesian variable order Markov models
 firstpage: 161
 lastpage: 168
 page: 161-168
-sections: 
+order: 161
+cycles: false
 author:
 - given: Christos
   family: Dimitrakakis

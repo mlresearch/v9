@@ -19,7 +19,8 @@ tex_title: Polynomial-Time Exact Inference in NP-Hard Binary MRFs via Reweighted
 firstpage: 717
 lastpage: 724
 page: 717-724
-sections: 
+order: 717
+cycles: false
 author:
 - given: Nic
   family: Schraudolph

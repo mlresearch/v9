@@ -23,7 +23,8 @@ tex_title: On the relation between universality, characteristic kernels and RKHS
 firstpage: 773
 lastpage: 780
 page: 773-780
-sections: 
+order: 773
+cycles: false
 author:
 - given: Bharath
   family: Sriperumbudur

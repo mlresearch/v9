@@ -20,7 +20,8 @@ tex_title: Tempered Markov Chain Monte Carlo for training of Restricted Boltzman
 firstpage: 145
 lastpage: 152
 page: 145-152
-sections: 
+order: 145
+cycles: false
 author:
 - given: Guillaume
   family: Desjardins

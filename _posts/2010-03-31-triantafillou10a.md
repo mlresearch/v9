@@ -18,7 +18,8 @@ tex_title: Learning Causal Structure from Overlapping Variable Sets
 firstpage: 860
 lastpage: 867
 page: 860-867
-sections: 
+order: 860
+cycles: false
 author:
 - given: Sofia
   family: Triantafillou
