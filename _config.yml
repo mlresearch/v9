@@ -64,6 +64,7 @@ conference:
   - 2010-05-13
   - 2010-05-14
   - 2010-05-15
+  number: '13'
 analytics:
   google:
     tracking_id: UA-92432422-1
