@@ -18,15 +18,13 @@ sections:
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: TehAISTATS2010
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Yee Whye
   family: Teh
 - given: Mike
   family: Titterington
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics
     Held in Chia Laguna Resort, Sardinia, Italy on 13-15 May 2010
@@ -42,7 +40,7 @@ description: |
 date_str: 13--15 May
 url: http://proceedings.mlr.press
 baseurl: "/v9"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -54,6 +52,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -70,3 +69,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v9.bib
+---
