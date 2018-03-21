@@ -10,7 +10,7 @@ abstract: We present a simple, effective generalisation of variable order   Mark
   experts.  Experimental results show that the   predictive model exhibits consistently
   good performance in a variety   of domains.
 pdf: http://proceedings.mlr.press/v9/dimitrakakis10a/dimitrakakis10a.pdf
-supplementary: http://proceedings.mlr.press/v9/dimitrakakis10a///jmlr.org/proceedings/papers/v9/dimitrakakis10a/dimitrakakis10aSupple.tgz
+supplementary: http://proceedings.mlr.press/v9/dimitrakakis10a/dimitrakakis10aSupple.tgz
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: dimitrakakis10a
