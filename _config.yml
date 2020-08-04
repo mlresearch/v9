@@ -63,11 +63,10 @@ display:
     apa: true
     ris: true
   comments: false
-email: ''
 conference:
   name: Proceedings of the Thirteenth International Conference on Artificial Intelligence
     and Statistics
-  url: 
+  url: http://aistats.org/aistats2010/
   location: Chia Laguna Resort, Sardinia, Italy
   dates:
   - 2010-05-13
