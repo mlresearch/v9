@@ -1,12 +1,12 @@
 ---
 title: Polynomial-Time Exact Inference in NP-Hard Binary MRFs via Reweighted Perfect
   Matching
-abstract: We develop a new form of reweighting (Wainwright et al., 2005) to leverage
+abstract: We develop a new form of reweighting (Wainwright et al., 2005b) to leverage
   the relationship between Ising spin glasses and perfect matchings into a novel technique
   for the exact computation of MAP states in hitherto intractable binary Markov random
-  fields. Our method solves an n by n lattice with external field and random couplings
-  much faster, and for larger n, than the best competing algorithms. It empirically
-  scales as O(n³) even though this problem is NP-hard and non-approximable in polynomial
+  fields. Our method solves an $n \times n$ lattice with external field and random couplings
+  much faster, and for larger $n$, than the best competing algorithms. It empirically
+  scales as $O(n^3)$ even though this problem is NP-hard and non-approximable in polynomial
   time. We discuss limitations of our current implementation and propose ways to overcome
   them.
 pdf: http://proceedings.mlr.press/v9/schraudolph10a/schraudolph10a.pdf

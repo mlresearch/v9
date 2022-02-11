@@ -1,7 +1,7 @@
 ---
 title: Bayesian structure discovery in Bayesian networks with less space
 abstract: Current exact algorithms for score-based structure discovery in Bayesian
-  networks on n nodes run in time and space within a polynomial factor of 2^n. For
+  networks on $n$ nodes run in time and space within a polynomial factor of $2^n$. For
   practical use, the space requirement is the bottleneck, which motivates trading
   space against time. Here, previous results on finding an optimal network structure
   in less space are extended in two directions. First, we consider the problem of
